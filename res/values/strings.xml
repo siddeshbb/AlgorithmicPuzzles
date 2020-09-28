@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlgorithmicPuzzles</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+     <string name="backtrack">Backtrack algorithm</string>
+     <string name="btp">Solve Eight Queen Puzzle</string>
+     <string name="tohal">Solve Tower of hanoi Puzzle</string>
+      <string name="sort">Sorting Puzzle</string>
+       <string name="toh">Tower of hanoi</string>
+        <string name="help">Help</string>
+         <string name="exit">Exit</string>
+
+           <string name="timer">000</string>
+         
+          <string name="backmain">BACKTRACK ALGORITHM</string>
+         <string name="queenmain">QUEEN PUZZLES</string>
+          <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ok">OK</string>
+     <string name="OK">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="name">Name</string>
+    <string name="start_new_game_alert_text">Are you sure you want to start a new game?</string>
+    <string name="finish_game_alert_text">Are you sure you want to exit the game?</string>
+    <string name="tip">Tip</string>
+    <string name="PAUSE">PAUSE</string>
+
+	<string name="game_type">Select Puzzle</string>
+	
+	
+ 
+	
+	
+	<string name="queens"> Queens</string>
+    
+
+	<string name="queens4"> 4 Queens</string>
+	<string name="queens5"> 5 Queens</string>
+	<string name="queens6"> 6 Queens</string>
+	<string name="queens7"> 7 Queens</string>
+	<string name="queens8"> 8 Queens</string>
+	
+    <string name="queenpuzzles">Queen Puzzles</string>
+    <string name="scores">Scores</string>
+   
+    <string name="about">About</string>
+
+	<string name="undo">Undo</string>
+	<string name="restart">Restart</string>
+	<string name="replay">Replay Solution</string>
+	<string name="stop">Stop</string>
+	<string name="solve">Solve</string>
+	<string name="options">Options</string>
+	
+	
+	<string name="riddle_cant_be_solved">Riddle can\'t be solved!</string>
+
+  
+  	<string name="preferences">Preferences</string>
+
+	<string name="no_scores_found">No scores for this game.</string>
+
+	<string name="help_file_name">index.html</string>
+
+	<string name="q8_puzzle_options">8 Queens Options</string>
+	
+
+	<string name="board_size">Board Size</string>
+	
+	
+	<string name="very_easy">Very Easy</string>
+	<string name="easy">Easy</string>
+	<string name="medium">Medium</string>
+	<string name="hard">Hard</string>
+	
+	<string name="no_more_moves">There are no more moves available.Restart and solve it.</string>
+
+	<string name="puzzle_type">Puzzle type</string>
+	<string name="puzzle_type_summary">Select the puzzle type</string>
+
+	<string name="solved_in_seconds">Solved in %%d seconds!</string>
+
+	
+	
+	<string name="save">Save</string>
+	<string name="edit">Edit</string>
+	<string name="rename">Rename</string>
+	<string name="delete">Delete</string>
+     <string name="menu_settings">Settings</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+     <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="sev">7</string>
+    <string name="eig">8</string>
+    <string name="nin">9</string>
+    <string name="ten">10</string>
+    <string name="ele">11</string>
+    <string name="twe">12</string>
+    <string name="msg">Place the balls in the order they disappeared</string>
+    <string name="nex">Next</string>
+    <string name="ret">Retry</string>
+    
+	
+  
+</resources>

@@ -1,0 +1,1279 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class LinkAnnotation 
+4 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 645.7736
+ 134.9229
+ 657.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class LinkAnnotation 
+5 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 645.7736
+ 532.5827
+ 657.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER3': class LinkAnnotation 
+6 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 62.69291
+ 627.7736
+ 117.1529
+ 639.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class LinkAnnotation 
+7 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Rect [ 527.0227
+ 627.7736
+ 532.5827
+ 639.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER5': class LinkAnnotation 
+8 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 309.0236
+ 0 ]
+ /Rect [ 62.69291
+ 609.7736
+ 246.6429
+ 621.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class LinkAnnotation 
+9 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 309.0236
+ 0 ]
+ /Rect [ 527.0227
+ 609.7736
+ 532.5827
+ 621.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class LinkAnnotation 
+10 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 62.69291
+ 591.7736
+ 179.3829
+ 603.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class LinkAnnotation 
+11 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Rect [ 527.0227
+ 591.7736
+ 532.5827
+ 603.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER9': class LinkAnnotation 
+12 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Rect [ 62.69291
+ 573.7736
+ 131.0429
+ 585.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class LinkAnnotation 
+13 0 obj
+<< /Border [ 0
+ 0
+ 0 ]
+ /Contents ()
+ /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Rect [ 527.0227
+ 573.7736
+ 532.5827
+ 585.7736 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+14 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R
+ 6 0 R
+ 7 0 R
+ 8 0 R
+ 9 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R ]
+ /Contents 27 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 26 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+15 0 obj
+% Page dictionary
+<< /Contents 28 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 26 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 29 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 26 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page4': class PDFPage 
+17 0 obj
+% Page dictionary
+<< /Contents 30 0 R
+ /MediaBox [ 0
+ 0
+ 595.2756
+ 841.8898 ]
+ /Parent 26 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R18': class PDFCatalog 
+18 0 obj
+% Document Root
+<< /Outlines 20 0 R
+ /PageLabels 31 0 R
+ /PageMode /UseNone
+ /Pages 26 0 R
+ /Type /Catalog >>
+endobj
+% 'R19': class PDFInfo 
+19 0 obj
+<< /Author ()
+ /CreationDate (D:20130801154404-05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title (AlgorithmicPuzzles app) >>
+endobj
+% 'R20': class PDFOutlines 
+20 0 obj
+<< /Count 5
+ /First 21 0 R
+ /Last 25 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+21 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 22 0 R
+ /Parent 20 0 R
+ /Title (\376\377\0001\000\240\000\240\000\240\000I\000n\000t\000r\000o\000d\000u\000c\000t\000i\000o\000n) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+22 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 534.0236
+ 0 ]
+ /Next 23 0 R
+ /Parent 20 0 R
+ /Prev 21 0 R
+ /Title (\376\377\0002\000\240\000\240\000\240\000A\000b\000s\000t\000r\000a\000c\000t) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+23 0 obj
+<< /Dest [ 15 0 R
+ /XYZ
+ 62.69291
+ 309.0236
+ 0 ]
+ /Next 24 0 R
+ /Parent 20 0 R
+ /Prev 22 0 R
+ /Title (\376\377\0003\000\240\000\240\000\240\000S\000y\000s\000t\000e\000m\000 \000R\000e\000q\000u\000i\000r\000e\000m\000e\000n\000t\000s\000 \000S\000p\000e\000c\000i\000f\000i\000c\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+24 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 62.69291
+ 753.0236
+ 0 ]
+ /Next 25 0 R
+ /Parent 20 0 R
+ /Prev 23 0 R
+ /Title (\376\377\0004\000\240\000\240\000\240\000D\000e\000s\000i\000g\000n\000 \000o\000f\000 \000A\000p\000p\000l\000i\000c\000a\000t\000i\000o\000n) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+25 0 obj
+<< /Dest [ 17 0 R
+ /XYZ
+ 62.69291
+ 186.0236
+ 0 ]
+ /Parent 20 0 R
+ /Prev 24 0 R
+ /Title (\376\377\0005\000\240\000\240\000\240\000C\000o\000n\000c\000l\000u\000s\000i\000o\000n) >>
+endobj
+% 'R26': class PDFPages 
+26 0 obj
+% page tree
+<< /Count 4
+ /Kids [ 14 0 R
+ 15 0 R
+ 16 0 R
+ 17 0 R ]
+ /Type /Pages >>
+endobj
+% 'R27': class PDFStream 
+27 0 obj
+% page stream
+<< /Length 2141 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 729.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 122.1449 0 Td (AlgorithmicPuzzles app) Tj T* -122.1449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 699.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 3 Tm /F2 15 Tf 18 TL 161.5949 0 Td (Technical Document) Tj T* -161.5949 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 666.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (2   Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (3   System Requirements Specification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (4   Design of Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (3) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (5   Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (4) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 570.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 188.9849 0 Td 12 TL /F1 10 Tf 0 0 0 rg (AlgorithmicPuzzles app) Tj T* -188.9849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 119.2299 0 Td (Page: 1/4,AlgorithmicPuzzles app Technical Document) Tj T* -119.2299 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R28': class PDFStream 
+28 0 obj
+% page stream
+<< /Length 5720 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (1   Introduction) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 678.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .201984 Tw (AlgorithmicPuzzles app is a android application which helps to learn the algorithms in an effective manner) Tj T* 0 Tw 1.27248 Tw (by solving the puzzles.Algorithms are a step-by-step procedure for calculations.Algorithms are used for) Tj T* 0 Tw 2.092706 Tw (calculation,data processing and automated reasoning. Algorithms are essential to the way computers) Tj T* 0 Tw (process the data.Algorithms are basics to solve any problems.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 3.353314 Tw (Although algorithms do constitute the cornerstone of computer science and no sensible computer) Tj T* 0 Tw .66229 Tw (programming is possible without them,it is a common misconception to equate the two.Some algorithmic) Tj T* 0 Tw 2.154597 Tw (puzzles predate computers by more than a thousand years.It is true,however,that the proliferation of) Tj T* 0 Tw .759318 Tw (computers has made algorithmic problem solving important in many areas of modern life, from hard and) Tj T* 0 Tw .053318 Tw (soft science to art and entertainment. Solving algorithmic puzles is the most productive and definitely most) Tj T* 0 Tw 11.11543 Tw (enjoyable way to develop and strengthen one's algorithmic thiking skills. In this) Tj T* 0 Tw .529979 Tw (approach,AlgorithmicPuzzles app helps them to learn the algorithms,improve their algorithmic thinking by) Tj T* 0 Tw (analysing and solving the puzzles built on them.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 546.0236 cm
+Q
+q
+1 0 0 1 62.69291 513.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (2   Abstract) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 351.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 146 Tm /F1 10 Tf 12 TL .29311 Tw (Many people often find it difficult to understand the algorithms which are very essential in problem solving) Tj T* 0 Tw 1.052651 Tw (approach.Hence, they find it difficult to solve the problems.Algorithms are indeed the basic step for any) Tj T* 0 Tw 3.23284 Tw (programmers and those who are working in the computer science field.Without the help of these) Tj T* 0 Tw .295697 Tw (algorithms they cannot proceed the further steps.Hence,it is very important to learn these algorithms logic) Tj T* 0 Tw 2.799983 Tw (correctly and precisely. Puzzles are an ideal vehicle for mastering algorithmic thinking skill for two) Tj T* 0 Tw .188935 Tw (reasons. First, Puzzles are fun and a person is normally willing to put more effort into solving them than in) Tj T* 0 Tw .084985 Tw (doing routine exercises. Second, algorithmic puzzles force a solver to think on a more abstract level. Even) Tj T* 0 Tw .979318 Tw (computer science students have a tendency to think about algorithmic problems in terms of a computer) Tj T* 0 Tw 1.04784 Tw (language they know instaed of applying general design and analysis startegies. Puzzles can rectify this) Tj T* 0 Tw .203318 Tw (important deficiency. Algorithmic Puzzles app will help them in this approach by solving the puzzles which) Tj T* 0 Tw .11686 Tw (are built on the algorithms and thus helping them to understand the problem solving approach using those) Tj T* 0 Tw .573318 Tw (algorithms.Thus by solving those Puzzles will help them to overcome their deficiency and also help them) Tj T* 0 Tw (to enrich their problem solving capability.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 321.0236 cm
+Q
+q
+1 0 0 1 62.69291 288.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (3   System Requirements Specification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 270.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (AlgorithmicPuzzles app will work on the following system requirements specification) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 264.0236 cm
+Q
+q
+1 0 0 1 62.69291 249.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL -7.52063 0 Td (Android-version:) Tj T* 7.52063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (version 3.0\(HONEYCOMB,API-11\) and above) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 234.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 31.36937 0 Td (Memory:) Tj T* -31.36937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5-6 MB) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 219.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.59937 0 Td (CPU:) Tj T* -48.59937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A single core processor of clock speed 600Mhz with a RAM of 256MB or higher.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 15 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL -24.74063 0 Td (Additional-Software:) Tj T* 24.74063 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 1.506399 Tw (This is a standalone application.This app doesnot require any support from other) Tj T* 0 Tw (app.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 192.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 188.9849 0 Td 12 TL /F1 10 Tf 0 0 0 rg (AlgorithmicPuzzles app) Tj T* -188.9849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 119.2299 0 Td (Page: 2/4,AlgorithmicPuzzles app Technical Document) Tj T* -119.2299 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R29': class PDFStream 
+29 0 obj
+% page stream
+<< /Length 8014 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 732.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (4   Design of Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 702.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .18936 Tw (Algorithmic Puzzles app helps to learn the algorithms very effectievely with the help of solving the puzzles) Tj T* 0 Tw (built on them.The application provides the following puzzles:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 696.0236 cm
+Q
+q
+1 0 0 1 62.69291 645.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Eight Queen Puzzle:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 2.925984 Tw (In this puzzle,the user needs to place 8 queens in a chessboard,so that no one attacks) Tj T* 0 Tw 3.616647 Tw (another.This puzzle consists of only one level which upon solving correctly, a message) Tj T* 0 Tw (containing Time required by you will be displayed on the screen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 639.0236 cm
+Q
+q
+1 0 0 1 62.69291 564.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sorting Puzzle:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 50 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .592651 Tw (In this puzzle,the user needs to place the coloured bubbles present on UI which disappear one) Tj T* 0 Tw .489398 Tw (by one from the screen at first and then the coloured bubbles once again appear on the screen) Tj T* 0 Tw .199983 Tw (upon which the user needs to place those coloured bubbles to their respective numbered circles) Tj T* 0 Tw 1.040651 Tw (in the order of their disappearance. This puzzle consists of 10 levels. Solving a level correctly) Tj T* 0 Tw (will leads to the next level by the help of next button.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+Q
+q
+1 0 0 1 62.69291 453.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 90 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Tower of Hanoi:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 39 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 38 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .497882 Tw (In this puzzle,the user needs to place all the 3 rings present on the first tower to the third tower) Tj T* 0 Tw 1.009985 Tw (such that at any time smaller ring should be present on the larger ring.This puzzle consists of) Tj T* 0 Tw 3.466136 Tw (only one level which upon solving the puzzle correctly Game over dialog and message) Tj T* 0 Tw (containing the number of moves required by you will be displayed on the screen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .400542 Tw (In the first Interface of app, the link to these puzzles are given by the help of buttons.The algorithms) Tj T* 0 Tw .278876 Tw (of backtrack and Tower of hanoi are shown for the respective puzzles and for the Sorting puzzle it is) Tj T* 0 Tw (directly lead to the puzzle. The design of 3 Puzzles are given as below.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+Q
+q
+1 0 0 1 62.69291 180.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 252 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Eight Queen Puzzle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 242 Tm  T* ET
+q
+1 0 0 1 20 192 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .034104 Tw (As we know ,it should consist of chessboard like board on which eight queens will be placed and) Tj T* 0 Tw 1.566235 Tw (this board which we want is resized to screen and it is designed by Imageresizer method in) Tj T* 0 Tw 1.156905 Tw (graphics package.And with the help of onDraw method canvas is drawn which represents the) Tj T* 0 Tw 1.628443 Tw (chessboard like board.There is also init solver method which initialises the solution once the) Tj T* 0 Tw (solving of puzzle is started.A array movestable is used to store the solution.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 144 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .241412 Tw (In the OnCreate method of the PuzzleActivity, a Puzzleview instance is initialised. Also a Puzzle) Tj T* 0 Tw .20284 Tw (object is created and is injected into the Puzzleview. The Puzzleview is responsible for servicing) Tj T* 0 Tw 3.084524 Tw (the user interface, performs the job by calling the Puzzle.draw and Puzzle.onTouchEvent) Tj T* 0 Tw (methods.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL 1.712126 Tw (The Imageresizer method is a utility class that provides a method for dynamically resizing a) Tj T* 0 Tw 2.039318 Tw (bitmap. An instance of this class needs to be initializad by providing the dimensions of the) Tj T* 0 Tw 5.713615 Tw (original and resized bitmaps.This class is utilized in the onSizeChanged method of) Tj T* 0 Tw 3.115976 Tw (Puzzleview.The onSizeChanged method is called whenever the dimensions of the screen) Tj T* 0 Tw 3.289147 Tw (changes\(e.g when an orientation change happens or the screen is first displayed.At this) Tj T* 0 Tw 1.83498 Tw (method,the tile images are loaded from the application's resources. The loaded bitmaps are) Tj T* 0 Tw 1.145868 Tw (then resized to fit into the existing screen and kept in memory. The images are drawn on the) Tj T* 0 Tw (canvas at the draw method of the Eight Queen Puzzle.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.372927 Tw (In this Interface, first a chessboard appears on the screen on which you have to place the 8) Tj T* 0 Tw 2.371318 Tw (Queens such that without attacking each other and once you start to solve the timer gets) Tj T* 0 Tw 1.796136 Tw (running and the restart button appears on the screen.ImageResizer method is helpful in the) Tj T* 0 Tw (resizing the image to screen.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 174.0236 cm
+Q
+q
+1 0 0 1 62.69291 88.86614 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 70.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 70.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Sorting Puzzle) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 54.15748 Tm  T* ET
+q
+1 0 0 1 20 4.15748 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .519983 Tw (This Puzzle implements the Drag and Drop feature where there is coloured bubbles and circles) Tj T* 0 Tw 1.271412 Tw (associated with the interface in which you have to place the coloured bubbles into respective) Tj T* 0 Tw 1.458443 Tw (circles in order of their disappearance.This Puzzle consists of 10 levels.Solving the first level) Tj T* 0 Tw .037984 Tw (correctly a next button appears on the screen otherwise retry button appears on the screen. This) Tj T* 0 Tw 8.41247 Tw (is implemented by OnTouchListener and OnDragListener methods. This methods) Tj T* 0 Tw ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 188.9849 0 Td 12 TL /F1 10 Tf 0 0 0 rg (AlgorithmicPuzzles app) Tj T* -188.9849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 119.2299 0 Td (Page: 3/4,AlgorithmicPuzzles app Technical Document) Tj T* -119.2299 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R30': class PDFStream 
+30 0 obj
+% page stream
+<< /Length 7591 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 678.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 62 Tm  T* ET
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 62 Tm  T* ET
+q
+1 0 0 1 20 60 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (helps us to drag the coloured bubbles towards the respective circles and place it.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 50 Tm /F1 10 Tf 12 TL .000697 Tw (In this Interface,there will be coloured bubbles appearing on the screen which disappears one by) Tj T* 0 Tw 1.031412 Tw (one when Activity gets started and after all the bubbles disappear these bubbles appear once) Tj T* 0 Tw .973735 Tw (again on the screen and user have to respective bubbles in the respective order in the circles) Tj T* 0 Tw 2.185697 Tw (present. If users places the bubbles correctly they will be moved to next level.Through the) Tj T* 0 Tw (methods OnTouchListener and OnDragListener those ideas are implemented.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 672.0236 cm
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 459 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Tower of Hanoi) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 449 Tm  T* ET
+q
+1 0 0 1 20 435 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL 2.164431 Tw (This Puzzle consists of 3 towers and 3 rings and this is a classical 3 ring Tower of hanoi) Tj T* 0 Tw (instance.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 351 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 74 Tm /F1 10 Tf 12 TL 1.11311 Tw (Designing the tower of hanoi puzzle, as we know it should consists of three towers and three) Tj T* 0 Tw 2.32811 Tw (rings and rings are the area where we should be able to touch. These designs are made) Tj T* 0 Tw .132196 Tw (possible by Toh class which extends the SimpleBaseGameActivity. The SimpleBasGameActivity) Tj T* 0 Tw .891984 Tw (provides callbacks and contains the code to make AndEngine which is used as library to work) Tj T* 0 Tw .35061 Tw (with the Activity lifecycle. Each callback that it provides is used for specific purpose. As soon as) Tj T* 0 Tw 1.272126 Tw (you extend this class,we have to override three functions.Here is a brief descreption of those) Tj T* 0 Tw (functions that are used in designing the puzzle:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 345 cm
+Q
+q
+1 0 0 1 20 345 cm
+Q
+q
+1 0 0 1 20 294 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (onCreateEngineOptions:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL 1.614269 Tw (This function is where you create an instance of the engine. Every activity that the) Tj T* 0 Tw 1.582651 Tw (puzzle uses will have its own instance of the engine that will run within the activity) Tj T* 0 Tw (lifecycle.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 288 cm
+Q
+q
+1 0 0 1 20 249 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 24 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (onCreateResources:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 14 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 14 Tm /F1 10 Tf 12 TL .231984 Tw (This is the function where you'll load all the resources that the activity requires into the) Tj T* 0 Tw (VRAM.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 243 cm
+Q
+q
+1 0 0 1 20 192 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 10.5 0 Td (\177) Tj T* -10.5 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (onCreateScene:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 26 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 26 Tm /F1 10 Tf 12 TL .915984 Tw (This function is called sfter the above two call backs are executed. This is where we) Tj T* 0 Tw .321318 Tw (will create the scene for puzzle and use all the textures that are previously loaded into) Tj T* 0 Tw (the memory.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20 192 cm
+Q
+q
+1 0 0 1 20 96 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 86 Tm /F1 10 Tf 12 TL .45561 Tw (At first when the SimpleBaseActivity class is started all the three rings are stacked to first tower) Tj T* 0 Tw .001098 Tw (and you have to replace these three rings from first tower to third tower such that at any instance) Tj T* 0 Tw 3.892651 Tw (smaller ring should be present on the larger ring. The game scene is created by the) Tj T* 0 Tw 1.152126 Tw (onCreateScene where x and y co-ordinates are specified. And the three towers are added as) Tj T* 0 Tw .557045 Tw (sprites. And with the help of Ring class the rings are controlled and to them touch handlers are) Tj T* 0 Tw 4.298651 Tw (added so that rings are the areas where the user will be able to touch.The method) Tj T* 0 Tw .243555 Tw (checkForCollisionswithTowers helps to check if the ring has collided with or rather, is touching a) Tj T* 0 Tw (tower.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 48 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL .491751 Tw (The game logic is that the three towers represent as three stacks and you can only remove the) Tj T* 0 Tw .587209 Tw (above ring.After the third stack size is equal to 3 that is after solving the puzzle then the Game) Tj T* 0 Tw 2.396235 Tw (over dialog and the number of moves needed by you to solve the puzzle appears on the) Tj T* 0 Tw (screen.The onCreateScene helps to create the scene on the screen.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.433145 Tw (In the Tower of hanoi Puzzle as we know at every stage the ring present on the top can be) Tj T* 0 Tw .17811 Tw (removed, thus the towers represent as three stacks where intially the first stack will be filled with) Tj T* 0 Tw .557882 Tw (rings and other two stacks will be empty. After that you have to fill the third stack with the rings) Tj T* 0 Tw (such that every stage the smaller ring should be present on the larger ring.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 198.0236 cm
+Q
+q
+1 0 0 1 62.69291 165.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (5   Conclusion) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 38 Tm /F1 10 Tf 12 TL 1.214524 Tw (Thus this techincal document tells about the AlgorithmicPuzzle app's system requirements specification) Tj T* 0 Tw .009431 Tw (and the designs of the puzzles such as chessboard design of eight queen puzzle, drag and drop feature of) Tj T* 0 Tw 1.40186 Tw (sorting puzzle and the design of tower of hanoi puzzle. Thus this document explains about the design) Tj T* 0 Tw (implemntations of the AlgorithmicPuzzles application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 111.0236 cm
+Q
+q
+1 0 0 1 56.69291 773.1969 cm
+q
+BT 1 0 0 1 0 2 Tm 188.9849 0 Td 12 TL /F1 10 Tf 0 0 0 rg (AlgorithmicPuzzles app) Tj T* -188.9849 0 Td ET
+Q
+Q
+q
+1 0 0 1 56.69291 56.69291 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 119.2299 0 Td (Page: 4/4,AlgorithmicPuzzles app Technical Document) Tj T* -119.2299 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R31': class PDFPageLabels 
+31 0 obj
+% Document Root
+<< /Nums [ 0
+ 32 0 R
+ 1
+ 33 0 R
+ 2
+ 34 0 R
+ 3
+ 35 0 R ] >>
+endobj
+% 'R32': class PDFPageLabel 
+32 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R33': class PDFPageLabel 
+33 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R34': class PDFPageLabel 
+34 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R35': class PDFPageLabel 
+35 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+xref
+0 36
+0000000000 65535 f
+0000000113 00000 n
+0000000221 00000 n
+0000000386 00000 n
+0000000574 00000 n
+0000000815 00000 n
+0000001056 00000 n
+0000001297 00000 n
+0000001538 00000 n
+0000001779 00000 n
+0000002020 00000 n
+0000002262 00000 n
+0000002504 00000 n
+0000002747 00000 n
+0000002974 00000 n
+0000003350 00000 n
+0000003630 00000 n
+0000003910 00000 n
+0000004191 00000 n
+0000004350 00000 n
+0000004620 00000 n
+0000004745 00000 n
+0000005003 00000 n
+0000005256 00000 n
+0000005634 00000 n
+0000005952 00000 n
+0000006184 00000 n
+0000006319 00000 n
+0000008559 00000 n
+0000014378 00000 n
+0000022491 00000 n
+0000030185 00000 n
+0000030317 00000 n
+0000030394 00000 n
+0000030471 00000 n
+0000030548 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(f#\203& \215\313\322\330<\320\341U/=#) (f#\203& \215\313\322\330<\320\341U/=#)] 
+
+ /Info 19 0 R
+ /Root 18 0 R
+ /Size 36 >>
+startxref
+30595
+%%EOF

@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.csknights.algorithmicpuzzles"
+    android:versionCode="1"
+    android:versionName="1.0" >
+      <supports-screens android:resizeable="true"
+                      android:smallScreens="true" 
+                      android:normalScreens="true"
+                      android:largeScreens="true"
+                      android:xlargeScreens="true"
+                      android:anyDensity="true" />
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="17" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/algp"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.csknights.algorithmicpuzzles.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        
+        
+        
+        
+          <activity android:name=".Sort"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".SecondActivity"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Third"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Fourth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Fifth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Sixth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Seventh"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Eigth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Ningth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+         <activity android:name=".Tenth"
+                  android:label="@string/app_name"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+           
+        </activity>
+          
+          
+          
+          
+          
+        <activity android:name=".Toh"
+				  android:label="@string/app_name"
+				  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+		</activity>
+		
+		<activity android:name=".Backtrack"
+				  android:label="@string/app_name"
+				  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+			
+		</activity>
+        <activity android:name=".Tohal"
+				  android:label="@string/app_name"
+				  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+			
+		</activity>
+        
+        
+       
+  
+      
+        <activity android:name=".PuzzleActivity"
+                  android:label="@string/app_name"
+                  android:configChanges="orientation|keyboardHidden"
+                  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+            <intent-filter>
+				<category
+					android:name="android.intent.category.DEFAULT" />
+				<action
+					android:name="com.csknights.algorithmicpuzzles.PUZZLES" />
+				<action
+					android:name="android.intent.action.START_GAME_ACTION" />
+            </intent-filter>
+        </activity>
+       
+        
+        
+		
+		
+		<activity android:name=".HelpActivity"
+				  android:label="@string/app_name"
+				  android:theme="@android:style/Theme.NoTitleBar.Fullscreen">
+			<intent-filter>
+				<category
+					android:name="android.intent.category.DEFAULT" />
+				<action
+					android:name="com.csknights.algorithmicpuzzles.WEB_VIEW" />
+			</intent-filter>
+		</activity>
+		
+		
+		
+        
+        
+    </application>
+
+</manifest>

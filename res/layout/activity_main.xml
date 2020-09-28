@@ -1,0 +1,66 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="@drawable/back"
+    tools:context=".MainActivity" >
+
+    <Button
+        android:id="@+id/toh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/sorting"
+        android:layout_alignRight="@+id/sorting"
+        android:layout_below="@+id/backtrack"
+        android:layout_marginTop="93dp"
+          android:background="@drawable/button_1"
+        android:text="@string/toh" />
+
+    <Button
+        android:id="@+id/sorting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/backtrack"
+        android:layout_alignRight="@+id/backtrack"
+        android:layout_below="@+id/backtrack"
+        android:layout_marginTop="30dp"
+        android:onClick="Sort"
+          android:background="@drawable/button_1"
+        android:text="@string/sort" />
+
+    <Button
+        android:id="@+id/help"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/toh"
+        android:layout_alignRight="@+id/toh"
+        android:layout_below="@+id/toh"
+          android:background="@drawable/button_1"
+        android:layout_marginTop="25dp"
+        android:text="@string/help" />
+
+    <Button
+        android:id="@+id/exit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/help"
+        android:layout_alignRight="@+id/help"
+        android:layout_below="@+id/help"
+        android:layout_marginTop="24dp"
+          android:background="@drawable/button_1"
+        android:text="@string/exit" />
+
+    <Button
+        android:id="@+id/backtrack"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+          android:background="@drawable/button_1"
+        android:text="@string/backtrack" />
+
+</RelativeLayout>
